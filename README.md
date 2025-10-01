@@ -14,7 +14,7 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 - [nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_47) — Critical comparison of CNNs and vision transformers.
 - [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913) — A bit more of a technical perspective on how neural networks learn.
 - [Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications](https://arxiv.org/abs/2411.03782) — Review of multimodal AI (integration of images, electronic health records, specific biomarkers, etc.)
-- [Survey of Explainable AI Techniques in Healthcare](https://www.mdpi.com/1424-8220/23/2/634) — Review of interpretability methods, crucial for clinical adoption.
+- [Transparency of medical artificial intelligence systems](https://www.nature.com/articles/s44222-025-00363-w) - Review of interpretability and transparency methods across inputs, methods, and outputs, crucial elements for clinical adoption.
 - [Addressing fairness issues in deep learning-based medical image analysis: a systematic review](https://www.nature.com/articles/s41746-024-01276-5) — Review on addressing model bias resulting from training on limited or population-specific data.
 - [Randomised controlled trials evaluating artificial intelligence in clinical practice: a scoping review](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00047-5/fulltext) — Analysis on translating research into clinical deployment.
 - [Beyond Assistance: The Case for Role Separation in AI-Human Radiology Workflows](https://pubs.rsna.org/doi/10.1148/radiol.250477) — Discussion of AI-human integration strategies in the clinic.
@@ -54,5 +54,9 @@ I feel like trying out some of these models is the best way to learn, so I recom
 
 ## Contributions
 Feel free to open an issue, submit a pull request, or email me at pablocabrales8@gmail.com for suggestions or additions!
+
+## Previous Contributions 
+These have been substituted by more recent resources, but might still be useful:
+- [Survey of Explainable AI Techniques in Healthcare](https://www.mdpi.com/1424-8220/23/2/634)
 
 ---
