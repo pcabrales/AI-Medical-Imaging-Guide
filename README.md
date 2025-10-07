@@ -6,6 +6,7 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 
 ## Key Papers
 - [AI in health and medicine](https://www.nature.com/articles/s41591-021-01614-0) — Overview of challenges and opportunities
+- [Generative artificial intelligence in medicine](https://www.nature.com/articles/s41591-025-03983-2): Trends and applications of models that generative images, text, or other data modalities to assist clinicians.
 - [Artificial Intelligence in Healthcare: 2024 Year in Review](https://www.medrxiv.org/content/10.1101/2025.02.26.25322978v2): Trends and advances (mainly in research) from last year 
 - [Foundation Models in Radiology: What, How, Why, and Why Not](https://pubs.rsna.org/doi/10.1148/radiol.240597) —  Role of large-scale, general, pre-trained models in radiology. - [Convolutional networks and applications in vision](https://ieeexplore.ieee.org/document/5537907) —  Comprehensive overview of CNNs, the core type of neural network for image-related tasks (a.k.a. computer vision)
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) —  Seminal paper introducing the most influential neural network architecture for image-to-image tasks.
