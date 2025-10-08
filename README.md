@@ -25,11 +25,13 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 - **Tools:** [Stork](https://www.storkapp.me/) (alerts to keep track of new publications), [Doctor Penguin Newsletter](https://doctorpenguin.substack.com) (weekly newsletter with exciting new articles)
 - **Journals:** [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai) 
 - **Conferences:** MICCAI (key for [biomedical AI challenges](https://miccai.org/index.php/special-interest-groups/challenges/miccai-registered-challenges/) and [impactful papers](https://papers.miccai.org/miccai-2024/)), NeurIPS 
-- **Regulatory:** [FDA-approved AI medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) 
+- **Regulatory:** [FDA-approved AI medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+- **Events**: Often an underrated way to meet people and learn about the field. You can find them mainly on [Meetup](https://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com/).
 
 ## Courses and Talks 
 - Harvard’s [AI in Medicine](https://zitniklab.hms.harvard.edu/AIM2/) (structured, with great references)
 - Coursera/Udacity: e.g., [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine). 
+- [AI in Healthcare Implementation Playbook](https://dimesociety.org/ai-implementation-in-healthcare-playbook/)
 - [Voxel51’s YouTube channel](https://www.youtube.com/@voxel51/videos) uploads computer vision research talks. Also, I recommend this [presentation](https://www.youtube.com/watch?v=ogEkl-FC0dI) by Dr. Arman Rahmim on the importance of physician-centered design. 
 
 ## Books 
