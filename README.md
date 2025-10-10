@@ -37,6 +37,7 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 ## Books 
 - Deep Medicine by Eric Topol is a fantastic, accessible introduction. 
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon Prince is the best and most comprehensive technical reference for artificial intelligence that I have found. 
+- [Deep Learning for Biology](https://www.amazon.co.uk/dp/1098168038) by Charles Ravarani and Natasha Latysheva, with several chapters on medical applications. It has an accompanying [repo](https://github.com/deep-learning-for-biology/notebooks) with notebook examples.
 
 ## Hands-on Learning 
 I feel like trying out some of these models is the best way to learn, so I recommend: 
