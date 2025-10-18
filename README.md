@@ -16,6 +16,8 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 - [Transformers in medical imaging: A survey (2023)](https://www.sciencedirect.com/science/article/pii/S1361841523000634) —  Review of transformer applications in computer vision and medical imaging.
 - [nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation (2024)](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_47) — Critical comparison of CNNs and vision transformers.
 - [Visualizing the loss landscape of neural nets (2017)](https://arxiv.org/abs/1712.09913) — A bit more of a technical perspective on how neural networks learn.
+- [Evaluation metrics in medical imaging AI: fundamentals, pitfalls,
+misapplications, and recommendations (2025)](https://www.sciencedirect.com/science/article/pii/S3050577125000283?via%3Dihub) — Choice of metrics must align with clinical goals.
 - [Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications (2024)](https://arxiv.org/abs/2411.03782) — Review of multimodal AI (integration of images, electronic health records, specific biomarkers, etc.)
 - [Transparency of medical artificial intelligence systems (2025)](https://www.nature.com/articles/s44222-025-00363-w) - Review of interpretability and transparency methods across inputs, methods, and outputs, crucial elements for clinical adoption.
 - [Addressing fairness issues in deep learning-based medical image analysis: a systematic review (2024)](https://www.nature.com/articles/s41746-024-01276-5) — Review on addressing model bias resulting from training on limited or population-specific data.
