@@ -23,6 +23,7 @@ misapplications, and recommendations (2025)](https://www.sciencedirect.com/scien
 - [Addressing fairness issues in deep learning-based medical image analysis: a systematic review (2024)](https://www.nature.com/articles/s41746-024-01276-5) — Review on addressing model bias resulting from training on limited or population-specific data.
 - [Randomised controlled trials evaluating artificial intelligence in clinical practice: a scoping review (2024)](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00047-5/fulltext) — Analysis on translating research into clinical deployment.
 - [Beyond Assistance: The Case for Role Separation in AI-Human Radiology Workflows (2025)](https://pubs.rsna.org/doi/10.1148/radiol.250477) — Discussion of AI-human integration strategies in the clinic.
+- [The fragile intelligence of GPT-5 in medicine (2025)](https://www.nature.com/articles/s41591-025-04008-8) - Newer models still hallucinate, are overconfident, and bypass security measures, limiting their clinical use.
 
 ## Staying Updated 
 - **Tools:** [Stork](https://www.storkapp.me/) (alerts to keep track of new publications), [Doctor Penguin Newsletter](https://doctorpenguin.substack.com) (weekly newsletter with exciting new articles)
