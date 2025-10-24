@@ -25,6 +25,8 @@ misapplications, and recommendations (2025)](https://www.sciencedirect.com/scien
 - [Beyond Assistance: The Case for Role Separation in AI-Human Radiology Workflows (2025)](https://pubs.rsna.org/doi/10.1148/radiol.250477) — Discussion of AI-human integration strategies in the clinic.
 - [The fragile intelligence of GPT-5 in medicine (2025)](https://www.nature.com/articles/s41591-025-04008-8) - Newer models still hallucinate, are overconfident, and bypass security measures, limiting their clinical use.
 
+You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
+
 ## Staying Updated 
 - **Tools:** [Stork](https://www.storkapp.me/) (alerts to keep track of new publications), [Doctor Penguin Newsletter](https://doctorpenguin.substack.com) (weekly newsletter with exciting new articles)
 - **Journals:** [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai) 
