@@ -61,6 +61,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [Matthew Lungren](https://www.linkedin.com/in/mattlungrenmd/) — Chief Scientific Officer, Microsoft Health
 - [Michael Howell](https://www.linkedin.com/in/mdhowell/) — Chief Clinical Officer, Google
 - [Taha Kass-Hout](https://www.linkedin.com/in/tahak/) — Chief Technology Officer, GE HealthCare
+- [Vishaal Virani](https://www.linkedin.com/in/dr-vishaal-virani-mbbs-a58a315a/) — Head of Health, Kids & Learning at YouTube UK & Ireland
 
 
 ## Contributions
