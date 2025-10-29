@@ -39,6 +39,7 @@ You can also find great resources (mostly focusing on regulatory aspects) here: 
 - Coursera/Udacity: e.g., [AI for Medicine Specialization ()](https://www.coursera.org/specializations/ai-for-medicine). 
 - [AI in Healthcare Implementation Playbook (2025)](https://dimesociety.org/ai-implementation-in-healthcare-playbook/)
 - [Voxel51’s YouTube channel](https://www.youtube.com/@voxel51/videos) uploads computer vision research talks. Also, I recommend this [presentation (2025)](https://www.youtube.com/watch?v=ogEkl-FC0dI) by Dr. Arman Rahmim on the importance of physician-centered design. 
+- [Aalto Dictionary of Machine Learning (ADictML)](https://aaltodictionaryofml.github.io/) with intuitive explanations.
 
 ## Books 
 - [Deep Medicine (2019)](https://drerictopol.com/portfolio/deep-medicine/) by Eric Topol is a fantastic, accessible introduction. 
