@@ -24,6 +24,8 @@ misapplications, and recommendations (2025)](https://www.sciencedirect.com/scien
 - [Randomised controlled trials evaluating artificial intelligence in clinical practice: a scoping review (2024)](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00047-5/fulltext) — Analysis on translating research into clinical deployment.
 - [Beyond Assistance: The Case for Role Separation in AI-Human Radiology Workflows (2025)](https://pubs.rsna.org/doi/10.1148/radiol.250477) — Discussion of AI-human integration strategies in the clinic.
 - [The fragile intelligence of GPT-5 in medicine (2025)](https://www.nature.com/articles/s41591-025-04008-8) - Newer models still hallucinate, are overconfident, and bypass security measures, limiting their clinical use.
+- [In humble defense of unexplainable black box prediction models in healthcare (2025)](https://www.sciencedirect.com/science/article/pii/S0895435625003464) - On the pitfalls of explainability methods and how robust validation may be more important for trust.
+- [Learning the natural history of human disease with generative transformers (2025)](https://www.nature.com/articles/s41586-025-09529-3); [A full life cycle biological clock based on routine clinical data and its impact in health and diseases (2025)](https://www.nature.com/articles/s41591-025-04006-w) - Transformer models trained on electronic health records can predict disease progression and patient outcomes. 
 
 You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
 
