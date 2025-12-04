@@ -27,6 +27,7 @@ misapplications, and recommendations (2025)](https://www.sciencedirect.com/scien
 - [In humble defense of unexplainable black box prediction models in healthcare (2025)](https://www.sciencedirect.com/science/article/pii/S0895435625003464) - On the pitfalls of explainability methods and how robust validation may be more important for trust.
 - [Learning the natural history of human disease with generative transformers (2025)](https://www.nature.com/articles/s41586-025-09529-3); [A full life cycle biological clock based on routine clinical data and its impact in health and diseases (2025)](https://www.nature.com/articles/s41591-025-04006-w) - Transformer models trained on electronic health records can predict disease progression and patient outcomes. 
 - [The missing value of medical artificial intelligence (2025)](https://www.nature.com/articles/s41591-025-04050-6) - Medical decisions reflect values, and so do those made by AI, even if not explicitly programmed. The models should be steered based on an ethical frameworks to avoid, for example, simply maximizing reimbursement.
+- [First, do NOHARM: towards clinically safe large language models (2025)](https://arxiv.org/pdf/2512.01241) - LLMs are used by a majority of clinicians, but can produce harmful recommendations up to 22% of time. However, the best models outperform generalist physicians on safety.
 
 You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
 
@@ -48,6 +49,7 @@ You can also find great resources (mostly focusing on regulatory aspects) here: 
 - [Deep Medicine (2019)](https://drerictopol.com/portfolio/deep-medicine/) by Eric Topol is a fantastic, accessible introduction. 
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/) by Simon Prince is the best and most comprehensive technical reference for artificial intelligence that I have found. 
 - [Deep Learning for Biology (2025)](https://www.amazon.co.uk/dp/1098168038) by Charles Ravarani and Natasha Latysheva, with several chapters on medical applications. It has an accompanying [repo](https://github.com/deep-learning-for-biology/notebooks) with notebook examples.
+- [Probabilistic Artificial Intelligence (2025)](https://arxiv.org/pdf/2512.01241) by Andreas Krause and Jonas Hübotter, focuses on approximate inference and uncertainty quantification, crucial for medical applications.
 
 ## Hands-on Learning 
 I feel like trying out some of these models is the best way to learn, so I recommend: 
