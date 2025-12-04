@@ -58,6 +58,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - Attempting Kaggle challenges, such as [this one on cervical fracture detection](https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection), where you can guide yourself using other participants’ solutions - To code and test models, try Google Colab ([tutorial 1](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj) and [tutorial 2](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)).
 - An open-source framework to easily train AI models for medical tasks is [MONAI](https://monai.io/).
 - Data are essential to start any project: The [Medical Image Database](https://www.cuilab.cn/medimg/) ([paper](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf068/8238507?login=false)) includes an extensive collection, the [Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) keeps track of many existing datasets, and others can be found in [Dataset Ninja](https://datasetninja.com/category/medical), [Google](https://datasetsearch.research.google.com/), or [TCIA](https://www.cancerimagingarchive.net/) (cancer-related). 
+- [NMMItools](https://nmmitools.org) provides a suite of tools for Nuclear Medicine and Molecular Imaging Research, including simulation, image reconstruction, dosimetry, etc.
 
 ## People to Follow on LinkedIn 
 - [Jan Beger](https://www.linkedin.com/in/janbeger/) —  Head of AI Advocacy, GE HealthCare
