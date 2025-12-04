@@ -1,0 +1,23 @@
+name: Grammar check
+
+on:
+  push:
+    paths:
+      - "README.md"
+  pull_request:
+    paths:
+      - "README.md"
+
+jobs:
+  vale:
+    name: Check grammar
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Vale on README.md
+        uses: errata-ai/vale-action@v2.1.1
+        with:
+          files: README.md
