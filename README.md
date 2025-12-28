@@ -33,8 +33,9 @@ misapplications, and recommendations (2025)](https://www.sciencedirect.com/scien
 You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
 
 ## Staying Updated 
-- **Tools:** [Stork](https://www.storkapp.me/) (keep track of new journal publications), [Emergent Mind](https://www.emergentmind.com/) (keep track of trending arXiv preprints, can be filtered to medical physics/AI)
+- **New articles:** [Stork](https://www.storkapp.me/) (journal publications), [Emergent Mind](https://www.emergentmind.com/) (trending arXiv preprints, can be filtered to medical physics/AI)
 - **Newsletters**: [Doctor Penguin](https://doctorpenguin.substack.com) (research-focused), [The Imaging Wire](https://theimagingwire.com/newsletters/), [Aunt Minnie](https://www.auntminnie.com/) (radiology-focused), [Digital Health Wire](https://digitalhealthwire.com/) (broader digital health), [TDS The Variable](https://towardsdatascience.com/tag/the-variable/) (useful for learning about general AI methods), [AI Health Uncut](https://sergeiai.substack.com/about) (unique and honest perspectives into AI health)
+- **Podcasts**: [Radiology AI](https://rsnaradiologyai.libsyn.com/), [AI Daily Brief](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA) (general AI)
 - **Journals:** [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai)
 - **Conferences:** MICCAI (key for [biomedical AI challenges](https://miccai.org/index.php/special-interest-groups/challenges/miccai-registered-challenges/) and [impactful papers](https://papers.miccai.org/miccai-2024/)), NeurIPS, IEEE Medical Imaging Conference (MIC), RSNA
 - **Regulatory:** [FDA-approved AI medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
