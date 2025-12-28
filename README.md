@@ -28,19 +28,21 @@ misapplications, and recommendations (2025)](https://www.sciencedirect.com/scien
 - [Learning the natural history of human disease with generative transformers (2025)](https://www.nature.com/articles/s41586-025-09529-3); [A full life cycle biological clock based on routine clinical data and its impact in health and diseases (2025)](https://www.nature.com/articles/s41591-025-04006-w) - Transformer models trained on electronic health records can predict disease progression and patient outcomes. 
 - [The missing value of medical artificial intelligence (2025)](https://www.nature.com/articles/s41591-025-04050-6) - Medical decisions reflect values, and so do those made by AI, even if not explicitly programmed. The models should be steered based on an ethical frameworks to avoid, for example, simply maximizing reimbursement.
 - [First, do NOHARM: towards clinically safe large language models (2025)](https://arxiv.org/pdf/2512.01241) - LLMs are used by a majority of clinicians, but can produce harmful recommendations up to 22% of time. However, the best models outperform generalist physicians on safety.
+- [Pillar-0: A New Frontier for Radiology Foundation Models (2025)](https://arxiv.org/abs/2511.17803?utm_source=substack&utm_medium=email) - State-of-the-art radiology foundation model
 
 You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
 
 ## Staying Updated 
-- **Tools:** [Stork](https://www.storkapp.me/) (alerts to keep track of new publications), [Doctor Penguin Newsletter](https://doctorpenguin.substack.com) (weekly newsletter with exciting new articles)
-- **Journals:** [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai) 
-- **Conferences:** MICCAI (key for [biomedical AI challenges](https://miccai.org/index.php/special-interest-groups/challenges/miccai-registered-challenges/) and [impactful papers](https://papers.miccai.org/miccai-2024/)), NeurIPS 
+- **Tools:** [Stork](https://www.storkapp.me/) (keep track of new journal publications), [Emergent Mind](https://www.emergentmind.com/) (keep track of trending arXiv preprints, can be filtered to medical physics/AI)
+- **Newsletters**: [Doctor Penguin](https://doctorpenguin.substack.com) (research-focused), [The Imaging Wire](https://theimagingwire.com/newsletters/), [Aunt Minnie](https://www.auntminnie.com/) (radiology-focused), [Digital Health Wire](https://digitalhealthwire.com/) (broader digital health), [TDS The Variable](https://towardsdatascience.com/tag/the-variable/) (useful for learning about general AI methods), [AI Health Uncut](https://sergeiai.substack.com/about) (unique and honest perspectives into AI health)
+- **Journals:** [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai)
+- **Conferences:** MICCAI (key for [biomedical AI challenges](https://miccai.org/index.php/special-interest-groups/challenges/miccai-registered-challenges/) and [impactful papers](https://papers.miccai.org/miccai-2024/)), NeurIPS, IEEE Medical Imaging Conference (MIC), RSNA
 - **Regulatory:** [FDA-approved AI medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 - **Events**: Often an underrated way to meet people and learn about the field. You can find them mainly on [Meetup](https://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com/).
 
 ## Courses and Talks 
 - Harvard’s [AI in Medicine (2025)](https://zitniklab.hms.harvard.edu/AIM2/) (structured, with great references)
-- Coursera/Udacity: e.g., [AI for Medicine Specialization ()](https://www.coursera.org/specializations/ai-for-medicine). 
+- Coursera/Udacity: e.g., [AI for Medicine Specialization (2020)](https://www.coursera.org/specializations/ai-for-medicine)
 - [AI in Healthcare Implementation Playbook (2025)](https://dimesociety.org/ai-implementation-in-healthcare-playbook/)
 - [Voxel51’s YouTube channel](https://www.youtube.com/@voxel51/videos) uploads computer vision research talks. Also, I recommend this [presentation (2025)](https://www.youtube.com/watch?v=ogEkl-FC0dI) by Dr. Arman Rahmim on the importance of physician-centered design. 
 - [Aalto Dictionary of Machine Learning (ADictML)](https://aaltodictionaryofml.github.io/) with intuitive explanations.
@@ -69,6 +71,8 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [Michael Howell](https://www.linkedin.com/in/mdhowell/) — Chief Clinical Officer, Google
 - [Taha Kass-Hout](https://www.linkedin.com/in/tahak/) — Chief Technology Officer, GE HealthCare
 - [Vishaal Virani](https://www.linkedin.com/in/dr-vishaal-virani-mbbs-a58a315a/) — Head of Health, Kids & Learning at YouTube UK & Ireland
+- [Brian Casey](https://www.linkedin.com/in/briancasey3/) — Managing Editor at The Imaging Wire
+- [Sergei Polevikov](https://www.linkedin.com/in/sergeiai/) — Author of 'Advancing AI in Healthcare', Healthcare AI Fraud Investigator
 
 
 ## Contributions
