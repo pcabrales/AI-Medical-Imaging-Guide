@@ -11,6 +11,8 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 - [Artificial Intelligence in Healthcare: 2024 Year in Review](https://www.medrxiv.org/content/10.1101/2025.02.26.25322978v2) — Trends and advances (mainly in research) from last year 
 - [Foundation Models in Radiology: What, How, Why, and Why Not (2025)](https://pubs.rsna.org/doi/10.1148/radiol.240597) —  Role of large-scale, general, pre-trained models in radiology.
 - [Convolutional networks and applications in vision (2010)](https://ieeexplore.ieee.org/document/5537907) —  Comprehensive overview of CNNs, the core type of neural network for image-related tasks (a.k.a. computer vision)
+- [ImageNet Classification with Deep Convolutional Neural Networks (2012)](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) —  AlexNet is introduced, brining about the deep learning revolution in computer vision.
+- [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385) —  Residual connections enable training deeper neural networks (like ResNet) and substantially boost performance.
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://arxiv.org/abs/1505.04597) —  Seminal paper introducing the most influential neural network architecture for image-to-image tasks.
 - [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) —  Seminal paper introducing the architecture that enabled Large Language Models (LLMs), transformers.
 - [Transformers in medical imaging: A survey (2023)](https://www.sciencedirect.com/science/article/pii/S1361841523000634) —  Review of transformer applications in computer vision and medical imaging.
@@ -43,6 +45,7 @@ You can also find great resources (mostly focusing on regulatory aspects) here: 
 
 ## Courses and Talks 
 - Harvard’s [AI in Medicine (2025)](https://zitniklab.hms.harvard.edu/AIM2/) (structured, with great references)
+- [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/) — Excellent general computer vision course with videos.
 - Coursera/Udacity: e.g., [AI for Medicine Specialization (2020)](https://www.coursera.org/specializations/ai-for-medicine)
 - [AI in Healthcare Implementation Playbook (2025)](https://dimesociety.org/ai-implementation-in-healthcare-playbook/)
 - [Voxel51’s YouTube channel](https://www.youtube.com/@voxel51/videos) uploads computer vision research talks. Also, I recommend this [presentation (2025)](https://www.youtube.com/watch?v=ogEkl-FC0dI) by Dr. Arman Rahmim on the importance of physician-centered design. 
