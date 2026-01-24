@@ -39,6 +39,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 
 ## Key Papers
 - [Prospective real-world implementation of deep learning systems in healthcare: a systematic review guided by implementation science (2026)](https://www.nature.com/articles/s41746-026-02358-2)
+- [Agentic AI in radiology: emerging potential and unresolved challenges (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12515039/) - AI systems are evolving from passive tools to managing workflows and providing support, showing potential to reduce radiologist burnout if regulatory and integration challenges are addressed.
 - [AI, Health, and Health Care Today and Tomorrow (2025)](https://jamanetwork.com/journals/jama/fullarticle/2840175) - On evaluation and regulatory needs for clinical deployment.
 - [Generative artificial intelligence in medicine (2025)](https://www.nature.com/articles/s41591-025-03983-2) — Trends and applications of models that generate images, text, or other data modalities to assist clinicians.
 - [Foundation Models in Radiology: What, How, Why, and Why Not (2025)](https://pubs.rsna.org/doi/10.1148/radiol.240597) —  Role of large-scale, general, pre-trained models in radiology.
