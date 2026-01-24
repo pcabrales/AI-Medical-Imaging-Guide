@@ -4,37 +4,8 @@
 
 Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly, is advancing fast and is already being [deployed in clinical practice](https://jamanetwork.com/journals/jama/fullarticle/2840175). To help anyone trying to learn or navigate this field, I have been curating this guide throughout my PhD. As a disclaimer, this is a personal selection of resources I found particularly useful but is not exhaustive nor claims to represent the best selection. Suggestions for additions are welcome! 
 
-## Key Papers
-- [AI, Health, and Health Care Today and Tomorrow (2025)](https://jamanetwork.com/journals/jama/fullarticle/2840175) - On evaluation and regulatory needs for clinical deployment.
-- [AI in health and medicine (2022)](https://www.nature.com/articles/s41591-021-01614-0) — Overview of challenges and opportunities
-- [Generative artificial intelligence in medicine (2025)](https://www.nature.com/articles/s41591-025-03983-2) — Trends and applications of models that generate images, text, or other data modalities to assist clinicians.
-- [Artificial Intelligence in Healthcare: 2024 Year in Review](https://www.medrxiv.org/content/10.1101/2025.02.26.25322978v2) — Trends and advances (mainly in research) from last year 
-- [Foundation Models in Radiology: What, How, Why, and Why Not (2025)](https://pubs.rsna.org/doi/10.1148/radiol.240597) —  Role of large-scale, general, pre-trained models in radiology.
-- [Convolutional networks and applications in vision (2010)](https://ieeexplore.ieee.org/document/5537907) —  Comprehensive overview of CNNs, the core type of neural network for image-related tasks (a.k.a. computer vision)
-- [ImageNet Classification with Deep Convolutional Neural Networks (2012)](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) —  AlexNet is introduced, brining about the deep learning revolution in computer vision.
-- [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385) —  Residual connections enable training deeper neural networks (like ResNet) and substantially boost performance.
-- [U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://arxiv.org/abs/1505.04597) —  Seminal paper introducing the most influential neural network architecture for image-to-image tasks.
-- [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) —  Seminal paper introducing the architecture that enabled Large Language Models (LLMs), transformers.
-- [Transformers in medical imaging: A survey (2023)](https://www.sciencedirect.com/science/article/pii/S1361841523000634) —  Review of transformer applications in computer vision and medical imaging.
-- [nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation (2024)](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_47) — Critical comparison of CNNs and vision transformers.
-- [Visualizing the loss landscape of neural nets (2017)](https://arxiv.org/abs/1712.09913) — A bit more of a technical perspective on how neural networks learn.
-- [Evaluation metrics in medical imaging AI: fundamentals, pitfalls,
-misapplications, and recommendations (2025)](https://www.sciencedirect.com/science/article/pii/S3050577125000283?via%3Dihub) — Choice of metrics must align with clinical goals.
-- [Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications (2024)](https://arxiv.org/abs/2411.03782) — Review of multimodal AI (integration of images, electronic health records, specific biomarkers, etc.)
-- [Transparency of medical artificial intelligence systems (2025)](https://www.nature.com/articles/s44222-025-00363-w) - Review of interpretability and transparency methods across inputs, methods, and outputs, crucial elements for clinical adoption.
-- [Addressing fairness issues in deep learning-based medical image analysis: a systematic review (2024)](https://www.nature.com/articles/s41746-024-01276-5) — Review on addressing model bias resulting from training on limited or population-specific data.
-- [Randomised controlled trials evaluating artificial intelligence in clinical practice: a scoping review (2024)](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00047-5/fulltext) — Analysis on translating research into clinical deployment.
-- [Beyond Assistance: The Case for Role Separation in AI-Human Radiology Workflows (2025)](https://pubs.rsna.org/doi/10.1148/radiol.250477) — Discussion of AI-human integration strategies in the clinic.
-- [The fragile intelligence of GPT-5 in medicine (2025)](https://www.nature.com/articles/s41591-025-04008-8) - Newer models still hallucinate, are overconfident, and bypass security measures, limiting their clinical use.
-- [In humble defense of unexplainable black box prediction models in healthcare (2025)](https://www.sciencedirect.com/science/article/pii/S0895435625003464) - On the pitfalls of explainability methods and how robust validation may be more important for trust.
-- [Learning the natural history of human disease with generative transformers (2025)](https://www.nature.com/articles/s41586-025-09529-3); [A full life cycle biological clock based on routine clinical data and its impact in health and diseases (2025)](https://www.nature.com/articles/s41591-025-04006-w) - Transformer models trained on electronic health records can predict disease progression and patient outcomes. 
-- [The missing value of medical artificial intelligence (2025)](https://www.nature.com/articles/s41591-025-04050-6) - Medical decisions reflect values, and so do those made by AI, even if not explicitly programmed. The models should be steered based on an ethical frameworks to avoid, for example, simply maximizing reimbursement.
-- [First, do NOHARM: towards clinically safe large language models (2025)](https://arxiv.org/pdf/2512.01241) - LLMs are used by a majority of clinicians, but can produce harmful recommendations up to 22% of time. However, the best models outperform generalist physicians on safety.
-- [Pillar-0: A New Frontier for Radiology Foundation Models (2025)](https://arxiv.org/abs/2511.17803?utm_source=substack&utm_medium=email) - State-of-the-art radiology foundation model
-
-You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
-
 ## Staying Updated 
+- **State of Clinical AI Report 2026:** [Link](https://www.arise-ai.org/report) — 2025 brought significant advances in agentic systems and foundation models, but there is still progress to be made in real-world evaluation, human-computer workflows, and addressing model bias and uncertainty.
 - **New articles:** [Stork](https://www.storkapp.me/) (journal publications), [Emergent Mind](https://www.emergentmind.com/) (trending arXiv preprints, can be filtered to medical physics/AI)
 - **Newsletters**: [Doctor Penguin](https://doctorpenguin.substack.com) (research-focused), [The Imaging Wire](https://theimagingwire.com/newsletters/), [Aunt Minnie](https://www.auntminnie.com/) (radiology-focused), [Digital Health Wire](https://digitalhealthwire.com/) (broader digital health), [TDS The Variable](https://towardsdatascience.com/tag/the-variable/) (useful for learning about general AI methods), [AI Health Uncut](https://sergeiai.substack.com/about) (unique and honest perspectives into AI health)
 - **Podcasts**: [Radiology AI](https://rsnaradiologyai.libsyn.com/), [AI Daily Brief](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA) (general AI)
@@ -65,6 +36,36 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - An open-source framework to easily train AI models for medical tasks is [MONAI](https://monai.io/).
 - Data are essential to start any project: The [Medical Image Database](https://www.cuilab.cn/medimg/) ([paper](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf068/8238507?login=false)) includes an extensive collection, the [Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) keeps track of many existing datasets, and others can be found in [Dataset Ninja](https://datasetninja.com/category/medical), [Google](https://datasetsearch.research.google.com/), or [TCIA](https://www.cancerimagingarchive.net/) (cancer-related). 
 - [NMMItools](https://nmmitools.org) provides a suite of tools for Nuclear Medicine and Molecular Imaging Research, including simulation, image reconstruction, dosimetry, etc.
+
+## Key Papers
+- [AI, Health, and Health Care Today and Tomorrow (2025)](https://jamanetwork.com/journals/jama/fullarticle/2840175) - On evaluation and regulatory needs for clinical deployment.
+- [AI in health and medicine (2022)](https://www.nature.com/articles/s41591-021-01614-0) — Overview of challenges and opportunities
+- [Generative artificial intelligence in medicine (2025)](https://www.nature.com/articles/s41591-025-03983-2) — Trends and applications of models that generate images, text, or other data modalities to assist clinicians.
+- [Artificial Intelligence in Healthcare: 2024 Year in Review](https://www.medrxiv.org/content/10.1101/2025.02.26.25322978v2) — Trends and advances (mainly in research) from last year 
+- [Foundation Models in Radiology: What, How, Why, and Why Not (2025)](https://pubs.rsna.org/doi/10.1148/radiol.240597) —  Role of large-scale, general, pre-trained models in radiology.
+- [Convolutional networks and applications in vision (2010)](https://ieeexplore.ieee.org/document/5537907) —  Comprehensive overview of CNNs, the core type of neural network for image-related tasks (a.k.a. computer vision)
+- [ImageNet Classification with Deep Convolutional Neural Networks (2012)](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) —  AlexNet is introduced, brining about the deep learning revolution in computer vision.
+- [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385) —  Residual connections enable training deeper neural networks (like ResNet) and substantially boost performance.
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://arxiv.org/abs/1505.04597) —  Seminal paper introducing the most influential neural network architecture for image-to-image tasks.
+- [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) —  Seminal paper introducing the architecture that enabled Large Language Models (LLMs), transformers.
+- [Transformers in medical imaging: A survey (2023)](https://www.sciencedirect.com/science/article/pii/S1361841523000634) —  Review of transformer applications in computer vision and medical imaging.
+- [nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation (2024)](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_47) — Critical comparison of CNNs and vision transformers.
+- [Visualizing the loss landscape of neural nets (2017)](https://arxiv.org/abs/1712.09913) — A bit more of a technical perspective on how neural networks learn.
+- [Evaluation metrics in medical imaging AI: fundamentals, pitfalls,
+misapplications, and recommendations (2025)](https://www.sciencedirect.com/science/article/pii/S3050577125000283?via%3Dihub) — Choice of metrics must align with clinical goals.
+- [Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications (2024)](https://arxiv.org/abs/2411.03782) — Review of multimodal AI (integration of images, electronic health records, specific biomarkers, etc.)
+- [Transparency of medical artificial intelligence systems (2025)](https://www.nature.com/articles/s44222-025-00363-w) - Review of interpretability and transparency methods across inputs, methods, and outputs, crucial elements for clinical adoption.
+- [Addressing fairness issues in deep learning-based medical image analysis: a systematic review (2024)](https://www.nature.com/articles/s41746-024-01276-5) — Review on addressing model bias resulting from training on limited or population-specific data.
+- [Randomised controlled trials evaluating artificial intelligence in clinical practice: a scoping review (2024)](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00047-5/fulltext) — Analysis on translating research into clinical deployment.
+- [Beyond Assistance: The Case for Role Separation in AI-Human Radiology Workflows (2025)](https://pubs.rsna.org/doi/10.1148/radiol.250477) — Discussion of AI-human integration strategies in the clinic.
+- [The fragile intelligence of GPT-5 in medicine (2025)](https://www.nature.com/articles/s41591-025-04008-8) - Newer models still hallucinate, are overconfident, and bypass security measures, limiting their clinical use.
+- [In humble defense of unexplainable black box prediction models in healthcare (2025)](https://www.sciencedirect.com/science/article/pii/S0895435625003464) - On the pitfalls of explainability methods and how robust validation may be more important for trust.
+- [Learning the natural history of human disease with generative transformers (2025)](https://www.nature.com/articles/s41586-025-09529-3); [A full life cycle biological clock based on routine clinical data and its impact in health and diseases (2025)](https://www.nature.com/articles/s41591-025-04006-w) - Transformer models trained on electronic health records can predict disease progression and patient outcomes. 
+- [The missing value of medical artificial intelligence (2025)](https://www.nature.com/articles/s41591-025-04050-6) - Medical decisions reflect values, and so do those made by AI, even if not explicitly programmed. The models should be steered based on an ethical frameworks to avoid, for example, simply maximizing reimbursement.
+- [First, do NOHARM: towards clinically safe large language models (2025)](https://arxiv.org/pdf/2512.01241) - LLMs are used by a majority of clinicians, but can produce harmful recommendations up to 22% of time. However, the best models outperform generalist physicians on safety.
+- [Pillar-0: A New Frontier for Radiology Foundation Models (2025)](https://arxiv.org/abs/2511.17803?utm_source=substack&utm_medium=email) - State-of-the-art radiology foundation model
+
+You can also find great resources (mostly focusing on regulatory aspects) here: [Stay Informed: Artificial Intelligence & Human Participant Research, by Harvard Catalyst](https://catalyst.harvard.edu/regulatory/ai-human-participant-research/)
 
 ## People to Follow on LinkedIn 
 - [Jan Beger](https://www.linkedin.com/in/janbeger/) —  Head of AI Advocacy, GE HealthCare
