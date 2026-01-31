@@ -38,6 +38,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [NMMItools](https://nmmitools.org) provides a suite of tools for Nuclear Medicine and Molecular Imaging Research, including simulation, image reconstruction, dosimetry, etc.
 
 ## Key Papers
+- [Interval cancer, sensitivity, and specificity comparing AI-supported mammography screening with standard double reading without AI in the MASAI study: a randomised, controlled, non-inferiority, single-blinded, population-based, screening-accuracy trial (2026)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02464-X/abstract) - A randomized trial involving over 100k women showed that AI-assisted mammography screening improved cancer detection compared to standard double reading.
 - [Prospective real-world implementation of deep learning systems in healthcare: a systematic review guided by implementation science (2026)](https://www.nature.com/articles/s41746-026-02358-2)
 - [Agentic AI in radiology: emerging potential and unresolved challenges (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12515039/) - AI systems are evolving from passive tools to managing workflows and providing support, showing potential to reduce radiologist burnout if regulatory and integration challenges are addressed.
 - [AI, Health, and Health Care Today and Tomorrow (2025)](https://jamanetwork.com/journals/jama/fullarticle/2840175) - On evaluation and regulatory needs for clinical deployment.
