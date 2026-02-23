@@ -36,6 +36,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - An open-source framework to easily train AI models for medical tasks is [MONAI](https://monai.io/).
 - Data are essential to start any project: The [Medical Image Database](https://www.cuilab.cn/medimg/) ([paper](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf068/8238507?login=false)) includes an extensive collection, the [Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) keeps track of many existing datasets, and others can be found in [Dataset Ninja](https://datasetninja.com/category/medical), [Google](https://datasetsearch.research.google.com/), or [TCIA](https://www.cancerimagingarchive.net/) (cancer-related). 
 - [NMMItools](https://nmmitools.org) provides a suite of tools for Nuclear Medicine and Molecular Imaging Research, including simulation, image reconstruction, dosimetry, etc.
+- [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) provides a suite of tools for neuroimaging, including [SuperSynth](https://surfer.nmr.mgh.harvard.edu/fswiki/SuperSynth) for brain anatomy segmentation.
 
 ## Key Papers
 - [A large language model for complex cardiology care (2026)](https://www.nature.com/articles/s41591-025-04190-9) - Conversational diagnostic LLMs such as Google DeepMind's AIME can improve the performance of subspecialists in fields like cardiology.
