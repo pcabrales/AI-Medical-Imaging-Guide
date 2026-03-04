@@ -39,6 +39,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) provides a suite of tools for neuroimaging, including [SuperSynth](https://surfer.nmr.mgh.harvard.edu/fswiki/SuperSynth) for brain anatomy segmentation.
 
 ## Key Articles
+- [An agentic system for rare disease diagnosis with traceable reasoning](https://www.nature.com/articles/s41586-025-10097-9) - An agentic system reaches exceptional performance in diagnosing rare diseases, with a 95% agreement with expert clinicians.
 - [The state of AI in diagnostic imaging: readiness, resources and risk tolerance, by PHILIPS (2026)](https://www.usa.philips.com/healthcare/article/potential-of-ai-in-diagnostic-imaging) - Despite concerns on ROI, adoption keeps growing as the technology demonstrates workflow improvements.
 - [Software as a Medical Practitioner—Is It Time to License Artificial Intelligence?](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2840933) - Rather than solely as a medical device, AI should be regulated as clinicians, requiring validation, review, malpractice accountability etc.
 - [A large language model for complex cardiology care (2026)](https://www.nature.com/articles/s41591-025-04190-9) - Conversational diagnostic LLMs such as Google DeepMind's AIME can improve the performance of subspecialists in fields like cardiology.
