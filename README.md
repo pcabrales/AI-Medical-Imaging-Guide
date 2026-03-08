@@ -39,6 +39,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) provides a suite of tools for neuroimaging, including [SuperSynth](https://surfer.nmr.mgh.harvard.edu/fswiki/SuperSynth) for brain anatomy segmentation.
 
 ## Key Articles
+- [A novel digital twin strategy to examine the implications of randomized clinical trials for real-world populations](https://www.nature.com/articles/s41746-026-02464-1) - A Generative Adversarial Network (GAN) is used to translate the treatment effects observed in a randomized control trial population to a different population.
 - [Financial impact of deep learning reconstruction in magnetic resonance imaging: experiences after widespread deployment](https://www.ejradiology.com/article/S0720-048X(26)00091-4/fulltext) - Deep learning reconstruction reduced examination times by 10-21%, increasing throughput and productivity.
 - [An agentic system for rare disease diagnosis with traceable reasoning](https://www.nature.com/articles/s41586-025-10097-9) - An agentic system reaches exceptional performance in diagnosing rare diseases, with a 95% agreement with expert clinicians.
 - [The state of AI in diagnostic imaging: readiness, resources and risk tolerance, by PHILIPS (2026)](https://www.usa.philips.com/healthcare/article/potential-of-ai-in-diagnostic-imaging) - Despite concerns on ROI, adoption keeps growing as the technology demonstrates workflow improvements.
