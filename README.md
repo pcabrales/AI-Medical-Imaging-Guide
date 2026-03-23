@@ -11,7 +11,8 @@ Artificial Intelligence (AI) in medical imaging, and in healthcare more broadly,
 - **Podcasts**: [Radiology AI](https://rsnaradiologyai.libsyn.com/), [AI Daily Brief](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA) (general AI)
 - **Journals:** [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai)
 - **Conferences:** MICCAI (key for [biomedical AI challenges](https://miccai.org/index.php/special-interest-groups/challenges/miccai-registered-challenges/) and [impactful papers](https://papers.miccai.org/miccai-2024/)), NeurIPS, IEEE Medical Imaging Conference (MIC), RSNA
-- **Regulatory:** [FDA-approved AI medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+- **Regulatory:** 
+- [FDA-approved AI medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices), [CE marked radiology AI software](https://healthairegister.com/radiology/products)
 - **Events**: Often an underrated way to meet people and learn about the field. You can find them mainly on [Meetup](https://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com/).
 
 ## Courses and Talks 
