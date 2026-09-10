@@ -40,7 +40,8 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [NMMItools](https://nmmitools.org) provides a suite of tools for Nuclear Medicine and Molecular Imaging Research, including simulation, image reconstruction, dosimetry, etc.
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) provides a suite of tools for neuroimaging, including [SuperSynth](https://surfer.nmr.mgh.harvard.edu/fswiki/SuperSynth) for brain anatomy segmentation.
 
-## Key Articles
+## Key Articles and News
+- [ARPA-H launches the world’s first bid to build an FDA-authorized clinical AI for cardiovascular care](https://arpa-h.gov/news-and-events/arpa-h-launches-worlds-first-bid-build-fda-authorized-clinical-ai-cardiovascular) - The Advanced Research Projects Agency for Health (ARPA-H) leads a program with six major institutions (including Stanford, Duke, or Kaiser Permanente) to bring agentic, regulatory-approved cardiovascular care and guidance across the USA.
 - [Impact of Commercial Artificial Intelligence on Radiologist Reading Time for Pulmonary Nodule Evaluation at Chest CT](https://pubs.rsna.org/doi/10.1148/radiol.260484) - AI is starting to consistently show reductions in image reading times, potentially alleviating radiologist workload.
 - [Call to Action: Accelerating AI-driven Transformation in Medical Imaging and the Broader Health Care System](https://doi.org/10.1148/radiol.253974) - AI is not optional with the massive and growing need for medical imaging analysis.
 - [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://www.nature.com/articles/s41551-026-01764-x) and [Health system learning enables generalist neuroimaging models](https://doi.org/10.1038/s41591-026-04497-1) - Generalist medical imaging models require explainability and large-scale pretraining.
