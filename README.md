@@ -41,6 +41,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) provides a suite of tools for neuroimaging, including [SuperSynth](https://surfer.nmr.mgh.harvard.edu/fswiki/SuperSynth) for brain anatomy segmentation.
 
 ## Key Articles and News
+- [Sequential diagnosis with language models](https://doi.org/10.1126/science.aeh7930) - LLMs applying sequential diagnosis more than doubled clinician performance.
 - [Clinician Use of an Artificial Intelligence–Enabled Clinical Information Platform](https://jamanetwork.com/journals/jama/fullarticle/2855491) - Clinicians, especially younger ones, are using AI for decision-making and diagnosis.
 - [AI-enabled clinical trials](https://www.nature.com/articles/s44222-026-00487-7) - AI-enabled technologies (transplant acceptance prediction, digital twins for MRI-guided ablation, LLMs for patient-trial matching) are, or will soon be, accelerating clinical trials that bring life-saving treatments to patients.
 - [ARPA-H launches the world’s first bid to build an FDA-authorized clinical AI for cardiovascular care](https://arpa-h.gov/news-and-events/arpa-h-launches-worlds-first-bid-build-fda-authorized-clinical-ai-cardiovascular) - The Advanced Research Projects Agency for Health (ARPA-H) leads a program with six major institutions (including Stanford, Duke, or Kaiser Permanente) to bring agentic, regulatory-approved cardiovascular care and guidance across the USA.
