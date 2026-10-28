@@ -41,6 +41,7 @@ I feel like trying out some of these models is the best way to learn, so I recom
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) provides a suite of tools for neuroimaging, including [SuperSynth](https://surfer.nmr.mgh.harvard.edu/fswiki/SuperSynth) for brain anatomy segmentation.
 
 ## Key Articles and News
+- [Multimodal foundation models exploit text to make medical image predictions](https://www.nature.com/articles/s41467-026-74207-5) - Multimodal AI can overrely on text, be easily fooled, and not integrate modalities reliably.
 - [Sequential diagnosis with language models](https://doi.org/10.1126/science.aeh7930) - LLMs applying sequential diagnosis more than doubled clinician performance.
 - [Clinician Use of an Artificial Intelligence–Enabled Clinical Information Platform](https://jamanetwork.com/journals/jama/fullarticle/2855491) - Clinicians, especially younger ones, are using AI for decision-making and diagnosis.
 - [AI-enabled clinical trials](https://www.nature.com/articles/s44222-026-00487-7) - AI-enabled technologies (transplant acceptance prediction, digital twins for MRI-guided ablation, LLMs for patient-trial matching) are, or will soon be, accelerating clinical trials that bring life-saving treatments to patients.
